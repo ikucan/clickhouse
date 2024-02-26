@@ -1,0 +1,39 @@
+
+# mypy
+.mypy_cache
+
+# conda build directory
+build/
+
+
+# Compiled Python bytecode
+*.py[cod]
+
+# Log files
+*.log
+
+# # Package files
+# *.jar
+# *.class
+
+# # Maven
+# target/
+# dist/
+
+# # terraform files
+# CHANGELOG.md
+# LICENSE
+# **/.terraform*
+# terraform.tfstate
+# terraform.tfstate.backup
+# terraform-provider-*
+
+
+# IDEs
+.idea/
+.vscode/
+
+# database files
+**/*.parquet
+**/*.parq
+
